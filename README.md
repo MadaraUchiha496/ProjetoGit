@@ -1,3 +1,5 @@
 git init
 git add .
-<Convidados
+<Convidados.txt>
+<ListaVIP.txt>
+<
