@@ -3,3 +3,4 @@ git add .
 <Convidados.txt>
 <ListaVIP.txt>
 <Faça Login.txt>
+git commit
